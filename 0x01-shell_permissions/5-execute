@@ -1,2 +1,2 @@
 #!/bin/bash
-su chmod -rwxr-r-- hello
+su chmod 744 hello
